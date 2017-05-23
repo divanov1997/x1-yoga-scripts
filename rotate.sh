@@ -59,5 +59,5 @@ while true; do
             xrandr --output eDP1 --mode 2048x1152 --rotate normal
         fi
     fi
-    sleep 0.5
+    sleep 5
 done
