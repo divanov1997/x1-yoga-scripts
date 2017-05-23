@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Author : Danil Ivanov
 # Find ports on which the acceleromters are connected, this changes at each boot
 accel_screen_num=-1
 accel_body_num=-1
